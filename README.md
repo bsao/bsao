@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hello, I'm bsao!
 
-<!--
-**bsao/bsao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+- 🏢 I am currently working for [@nubank](https://github.com/nubank)
+- 📚 I am diving deep into advanced topics in NLP and Machine Learning
+- 🎙️ I am looking to collaborate on speaking at conferences and helping with public data projects
 
-Here are some ideas to get you started:
+### 🗣️ Ask Me About
+- 🌶️ Spicy food
+- 🐱 Cats
+- 🪂 Paragliding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Reach Me
+- 📲 You can reach me on Telegram: [@bsao0](https://t.me/bsao0)
+
+---
+
+Looking forward to connecting with you! 🚀
